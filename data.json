@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "titre": "Loi sur la réduction du plastique",
+    "resume": "Interdiction des emballages plastiques à usage unique d’ici 2030.",
+    "contexte": "Proposée par le ministère de l’Environnement, inspirée du plan européen GreenDeal.",
+    "votes": {"pour": 125, "contre": 80, "neutre": 20}
+  },
+  {
+    "id": 2,
+    "titre": "Loi sur la semaine de 4 jours",
+    "resume": "Expérimentation du travail sur 4 jours sans baisse de salaire.",
+    "contexte": "Proposée par des députés pour améliorer la qualité de vie au travail.",
+    "votes": {"pour": 210, "contre": 160, "neutre": 40}
+  }
+]
